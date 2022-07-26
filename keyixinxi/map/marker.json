@@ -1,0 +1,338 @@
+{
+    "bug": 0,
+    "content": [
+        {
+            "id": 1,
+            "latitude": 30.185086,
+            "longitude": 120.821259,
+            "title": "D1宿舍",
+            "iconPath": "/images/map/D1.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 2,
+            "latitude": 30.185509,
+            "longitude": 120.821317,
+            "title": "D2宿舍",
+            "iconPath": "/images/map/D2.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 3,
+            "latitude": 30.185521,
+            "longitude": 120.822218,
+            "title": "D3宿舍",
+            "iconPath": "/images/map/D3.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 4,
+            "latitude": 30.185061,
+            "longitude": 120.822213,
+            "title": "D4宿舍",
+            "iconPath": "/images/map/D4.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 5,
+            "latitude": 30.184537,
+            "longitude": 120.822164,
+            "title": "D5宿舍",
+            "iconPath": "/images/map/D5.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 6,
+            "latitude": 30.184132,
+            "longitude": 120.822169,
+            "title": "D6宿舍",
+            "iconPath": "/images/map/D6.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "latitude": 30.185445,
+            "longitude": 120.822889,
+            "title": "D7宿舍",
+            "iconPath": "/images/map/D7.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 8,
+            "latitude": 30.185483,
+            "longitude": 120.823426,
+            "title": "D8宿舍",
+            "iconPath": "/images/map/D8.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 91,
+            "latitude": 30.185351,
+            "longitude": 120.823944,
+            "title": "校医务室",
+            "iconPath": "/images/map/yws.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 92,
+            "latitude": 30.183362,
+            "longitude": 120.823495,
+            "title": "操场",
+            "iconPath": "/images/map/cc.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 93,
+            "latitude": 30.182795,
+            "longitude": 120.822159,
+            "title": "体育馆",
+            "iconPath": "/images/map/tyg.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 94,
+            "latitude": 30.184548,
+            "longitude": 120.821066,
+            "title": "学生活动中心",
+            "iconPath": "/images/map/xxhdzx.png",
+            "width": 90,
+            "height": 40
+        },
+        {
+            "id": 95,
+            "latitude": 30.183679,
+            "longitude": 120.822111,
+            "title": "学农试验田",
+            "iconPath": "/images/map/xnsyt.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 96,
+            "latitude": 30.185292,
+            "longitude": 120.819706,
+            "title": "食堂",
+            "iconPath": "/images/map/st.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 97,
+            "latitude": 30.182814,
+            "longitude": 120.819925,
+            "title": "报告厅",
+            "iconPath": "/images/map/bgt.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 98,
+            "latitude": 30.184387,
+            "longitude": 120.818386,
+            "title": "图书馆",
+            "iconPath": "/images/map/tsg.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 99,
+            "latitude": 30.182233,
+            "longitude": 120.819948,
+            "title": "行政楼",
+            "iconPath": "/images/map/xzl.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 910,
+            "latitude": 30.182226,
+            "longitude": 120.820511,
+            "title": "校史馆",
+            "iconPath": "/images/map/xsg.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 911,
+            "latitude": 30.185222,
+            "longitude": 120.820282,
+            "title": "综合楼(D10)",
+            "iconPath": "/images/map/zhl.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 81,
+            "latitude": 30.181855,
+            "longitude": 120.818378,
+            "title": "南大门",
+            "iconPath": "/images/map/n1.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 82,
+            "latitude": 30.181888,
+            "longitude": 120.821434,
+            "title": "南小门",
+            "iconPath": "/images/map/n2.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 83,
+            "latitude": 30.185636,
+            "longitude": 120.816809,
+            "title": "北门",
+            "iconPath": "/images/map/bm1.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 11,
+            "latitude": 30.182429,
+            "longitude": 120.819098,
+            "title": "A1艺术楼",
+            "iconPath": "/images/map/A1.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 12,
+            "latitude": 30.183165,
+            "longitude": 120.81909,
+            "title": "A2艺术楼",
+            "iconPath": "/images/map/A2.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 13,
+            "latitude": 30.183293,
+            "longitude": 120.819989,
+            "title": "A3艺术楼",
+            "iconPath": "/images/map/A3.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 14,
+            "latitude": 30.182989,
+            "longitude": 120.820856,
+            "title": "A4艺术楼",
+            "iconPath": "/images/map/A4.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 15,
+            "latitude": 30.182523,
+            "longitude": 120.820848,
+            "title": "A5艺术楼",
+            "iconPath": "/images/map/A5.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 21,
+            "latitude": 30.18245,
+            "longitude": 120.817818,
+            "title": "B1教学楼",
+            "iconPath": "/images/map/B1.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 22,
+            "latitude": 30.182293,
+            "longitude": 120.816989,
+            "title": "B2教学楼",
+            "iconPath": "/images/map/B2.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 23,
+            "latitude": 30.183296,
+            "longitude": 120.816974,
+            "title": "B3教学楼",
+            "iconPath": "/images/map/B3.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 24,
+            "latitude": 30.183179,
+            "longitude": 120.81778,
+            "title": "B4教学楼",
+            "iconPath": "/images/map/B4.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 31,
+            "latitude": 30.184253,
+            "longitude": 120.816258,
+            "title": "C1教学楼",
+            "iconPath": "/images/map/C1.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 32,
+            "latitude": 30.184709,
+            "longitude": 120.816206,
+            "title": "C2教学楼",
+            "iconPath": "/images/map/C2.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 33,
+            "latitude": 30.18452,
+            "longitude": 120.816853,
+            "title": "C3教学楼",
+            "iconPath": "/images/map/C3.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 34,
+            "latitude": 30.185061,
+            "longitude": 120.816823,
+            "title": "C4教学楼",
+            "iconPath": "/images/map/C4.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 35,
+            "latitude": 30.185484,
+            "longitude": 120.816055,
+            "title": "C5教学楼",
+            "iconPath": "/images/map/C5.png",
+            "width": 70,
+            "height": 30
+        },
+        {
+            "id": 36,
+            "latitude": 30.185373,
+            "longitude": 120.817652,
+            "title": "C6教学楼",
+            "iconPath": "/images/map/C6.png",
+            "width": 70,
+            "height": 30
+        }
+    ]
+}
